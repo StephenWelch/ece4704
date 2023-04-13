@@ -1,2 +1,5 @@
 sympy
 matplotlib
+jupyter
+sympy-plot-backends
+ipympl
